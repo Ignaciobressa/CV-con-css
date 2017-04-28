@@ -1,0 +1,47 @@
+.title{
+    color:brown;
+    width: 50%;
+    margin-left: 450px;
+    }
+
+.titulos{
+    color: purple;
+    margin-left: 1px ;  
+    width: 40%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Objetivos{
+    color: purple;
+    width: 40%;
+    float:center
+}
+
+.Experiencia{
+    color: green;
+    width: 40%;
+    float: center;
+    }
+
+.Formacion{
+    color: skyblue;
+    width: 40%;
+    float: center;
+    }
+
+.Cualificaciones{
+    color: lightblue;
+    width: 40%;
+    float: center;
+}
