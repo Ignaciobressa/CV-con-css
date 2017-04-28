@@ -6,8 +6,24 @@
 
 .titulos{
     color: purple;
-    margin-left: 1px ;  
     width: 40%;
+    margin-left: 1px;
+    border: 4px solid brown;
+}
+
+.textos{  
+color: purple;
+    width: 40%;
+    margin-left: 1px;
+    border: 4px solid brown;
+}
+
+.body{
+border: 10px solid purple;
+padding: 5px;
+width:1500px;
+height: 1500 px;
+text-align: justify;
 }
 
 
@@ -17,31 +33,3 @@
 
 
 
-
-
-
-
-
-.Objetivos{
-    color: purple;
-    width: 40%;
-    float:center
-}
-
-.Experiencia{
-    color: green;
-    width: 40%;
-    float: center;
-    }
-
-.Formacion{
-    color: skyblue;
-    width: 40%;
-    float: center;
-    }
-
-.Cualificaciones{
-    color: lightblue;
-    width: 40%;
-    float: center;
-}
